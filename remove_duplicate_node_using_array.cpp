@@ -57,7 +57,7 @@ int main(){
    curr=head;
    while(size--){
     curr=curr->next;
-
+ 
     
    }
 
